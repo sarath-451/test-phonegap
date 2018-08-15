@@ -1,0 +1,224 @@
+
+::-moz-selection {
+  background-color: #ffd34e;
+}
+
+::selection {
+  background-color: #ffd34e;
+}
+
+.blog-list .post .post-body .post-title:hover .fa,
+.woocommerce .addresses .title .edit:hover,
+.woocommerce-page .addresses .title .edit:hover,
+.post-content input[type="submit"]:hover,
+.post-body .page-links > span,
+.post-body .page-links > a:hover,
+.blog-list .post .post-body .post-title h3:hover .fa,
+.preloader .inner .item,
+.blog-single .breadcrumb li a:hover,
+#comments .comment-abs a:hover,
+.about-author .author-social a .fa:hover,
+.share-tags .tag a:hover,
+.share-tags .share-box .share a .fa:hover,
+.sidebar .tagcloud a:hover,
+.sidebar .widget_events .events > li:hover .fa,
+.blog-list .post .post-body .tags .tagcloud a:hover,
+.blog-grid .post .post-body:after,
+.pp-gallery .mfp-close:hover,
+.staff-social a:after,
+.the-menu-item .highlight,
+.open-menu-mobile.open-menu-active span:before,
+.open-menu-mobile.open-menu-active span:after,
+.open-menu-mobile.open-menu-active span,
+.minicart-wrap .toggle-minicart.active span:before,
+header.header.header-2 .open-menu-mobile.open-menu-active,
+.accordion-wrap .panel-group .panel .panel-heading .panel-title .fa.fa-minus,
+.owl-carousel .owl-controls .owl-pagination .owl-page.active > span,
+.ribbon.ribbon-3 .sm,
+.ribbon.ribbon-1 .sm:after,
+.ribbon.ribbon-1 .sm:before,
+mark,
+.mark,
+.awe-color
+{
+  background-color: #ffd34e;
+}
+
+.ui-datepicker-calendar tbody td a:hover,
+.ui-datepicker-calendar tbody td.ui-datepicker-today a,
+.ui-datepicker .ui-datepicker-next:hover:before,
+.ui-datepicker .ui-datepicker-prev:hover:before,
+.woocommerce table.shop_table td a:hover,
+.woocommerce-page table.shop_table td a:hover,
+.woocommerce .login-popup .inner-popup .awe-popup-close:hover,
+.woocommerce .coupon-popup .inner-popup .awe-popup-close:hover,
+.login-page .woocommerce p a:hover,
+.widget_calendar table tbody td a,
+.sidebar .widget_nav_menu ul li:hover,
+.sidebar .widget_recent_comments ul li:hover,
+.sidebar .widget_meta ul li:hover,
+.sidebar .widget_pages ul li:hover,
+.sidebar .widget_categories ul li:hover,
+.sidebar .widget_recent_entries ul li:hover,
+.sidebar .widget_archive ul li:hover,
+.widget_events .view-detail:hover,
+.post-meta a:hover,
+.your-order .list-product .product-remove a:hover,
+.shop-table tbody tr td a:hover,
+.product-detail-content .sizes ul li .tooltip-size span,
+.product-detail-content .sizes ul li .size:hover,
+.product-detail-page .categories ul li a:hover,
+.product-item .product-body .categories ul li a:hover,
+.product-item .product-body .item-name h4 a:hover,
+.contact-first .contact-body .lg,
+.pagination span.current, .pagination span:hover, .pagination a.current, .pagination a:hover,
+.sidebar .widget_latest_comments ul li .comment-info a:hover,
+.sidebar .widget_events .events > li .list-content a:hover,
+.sidebar .widget_categories ul li:hover,
+.sidebar .widget_recent_entries ul li:hover,
+.sidebar .widget_archive ul li:hover,
+.blog-list .post .post-body .post-title h2 a:hover,
+.blog-list .post .post-body .post-title h3 a:hover,
+.testimonial-2 .testimonial-slider .icon-head .icon,
+.testimonial-1 .testimonial-content .icon-head .icon,
+.item-event .item-event-meta > div a:hover,
+.item-event .item-event-meta > div .icon,
+.item-event .item-event-body a:hover,
+.the-menu-item .the-menu-body a:hover,
+.tabs-menu .nav-tabs li.active a,
+.tabs-shop .nav-tabs li.active a,
+.tabs-menu .nav-tabs li a:hover,
+.tabs-shop .nav-tabs li a:hover,
+.menu-mobile .head-social a:hover,
+.menu-mobile nav.navigation .nav li.active > .plus,
+.menu-mobile nav.navigation .nav li.active > a,
+.menu-mobile nav.navigation .nav li span.plus.plus-active + a,
+.menu-mobile nav.navigation .nav li span.plus.plus-active > span,
+.minicart-wrap .minicart-body .minicart-list li .product-remove a:hover,
+.minicart-wrap .minicart-body .minicart-list li .product-name a:hover,
+.minicart-wrap .toggle-minicart:hover,
+header.header.header-2 .minicart-wrap .toggle-minicart:hover,
+header.header.header-2 .head-social a:hover,
+header.header.header-2 .navigation ul.nav li.active > a,
+header.header.header-2 .navigation ul.nav li.active > .plus,
+header.header.header-2 .navigation ul.nav li:hover > a,
+header.header .head-social a:hover,
+header.header .navigation ul.nav li:hover > span.plus,
+header.header .navigation ul.nav li.active > a,
+header.header .navigation ul.nav li.active > .plus,
+.tabs-page .nav-tabs li a:hover,
+.bx-controls .bx-controls-direction > a:hover,
+html.ie9 .owl-carousel .owl-controls .owl-buttons > div:hover.owl-next,
+html.ie9 .owl-carousel .owl-controls .owl-buttons > div:hover.owl-prev,
+.awe-btn.awe-btn-6:hover.awe-btn-plus:after,
+.awe-btn.awe-btn-6:hover a,
+.awe-btn.awe-btn-6:hover input,
+.awe-btn.awe-btn-6:hover button
+.awe-btn.awe-btn-5:hover.awe-btn-plus:after,
+.awe-btn.awe-btn-5:hover a,
+.awe-btn.awe-btn-5:hover input,
+.awe-btn.awe-btn-5:hover button,
+.awe-btn.awe-btn-3.awe-btn-plus:after,
+.awe-btn.awe-btn-2:hover.awe-btn-plus:after,
+.awe-btn.awe-btn-2:hover a,
+.awe-btn.awe-btn-2:hover input,
+.awe-btn.awe-btn-2:hover button,
+.divider.divider-color
+{
+  color: #ffd34e;
+}
+
+.menu-mobile nav.navigation .nav li.current-menu-item > .plus,
+.menu-mobile nav.navigation .nav li.current-menu-parent > .plus,
+.menu-mobile nav.navigation .nav li.current-menu-item > a,
+.menu-mobile nav.navigation .nav li.current-menu-parent > a,
+header.header.header-2 .navigation ul.nav li.current-menu-item > a,
+header.header.header-2 .navigation ul.nav li.current-menu-parent > a,
+header.header.header-2 .navigation ul.nav li.current-menu-item > .plus,
+header.header.header-2 .navigation ul.nav li.current-menu-parent > .plus,
+header.header .navigation ul.nav li.current-menu-item > a,
+header.header .navigation ul.nav li.current-menu-parent > a,
+header.header .navigation ul.nav li.current-menu-item > .plus,
+header.header .navigation ul.nav li.current-menu-parent > .plus,
+.menu-mobile nav.navigation .nav li a:hover,
+header.header .navigation ul.nav li:hover > a,
+.product-detail-content .sizes .awe_active .size {
+  color: #ffd34e !important;
+}
+
+
+.shop-table .actions > input[name="proceed"],
+.shop-table .actions > input[name="update_cart"],
+.blog-single .breadcrumb li a:hover:before,
+.item-event .image-wrap,
+.event-pager a.active:after,
+.event-pager-scroll.ps-container > .ps-scrollbar-x-rail > .ps-scrollbar-x,
+.we-are-hiring,
+.the-menu-item .highlight:after,
+.story-slider .image-wrap,
+.story-pager a.active,
+header.header.header-1,
+.accordion-wrap .panel-group .panel .panel-heading .panel-title .fa.fa-minus,
+.awe-message,
+.owl-carousel .owl-controls .owl-pagination .owl-page.active > span,
+.ribbon.ribbon-3,
+blockquote.q-right,
+.blockquote.q-right,
+blockquote.q-left,
+.blockquote.q-left,
+.awe-btn.awe-btn-6:hover,
+.awe-btn.awe-btn-5,
+.awe-btn.awe-btn-3,
+.awe-title.awe-title-1
+{
+  border-color: #ffd34e;
+}
+
+
+
+.ribbon.ribbon-3:after, .ribbon.ribbon-3:before,
+.awe-btn.awe-btn-5.awe-btn-ar:after,
+.awe-btn.awe-btn-3.awe-btn-ar:after,
+.awe-btn.awe-btn-6:hover.awe-btn-ar:after,
+.mfp-preloader
+{
+  border-top-color: #ffd34e;
+}
+
+.ribbon.ribbon-3:after, .ribbon.ribbon-3:before,
+{
+  border-bottom-color: #ffd34e;
+}
+
+.blog-single .breadcrumb li a:hover:after,
+.ribbon.ribbon-3:after {
+  border-left-color: #ffd34e;
+}
+
+.awe-btn.awe-btn-5.awe-btn-ar:after,
+.awe-btn.awe-btn-3.awe-btn-ar:after,
+.awe-btn.awe-btn-6:hover.awe-btn-ar:after,
+.ribbon.ribbon-3:before {
+  border-right-color: #ffd34e;
+}
+
+.owl-carousel .owl-controls .owl-buttons > div.owl-next {
+  -webkit-text-shadow: 0 0 0 black, -30px 0 #ffd34e;
+  -moz-text-shadow: 0 0 0 black, -30px 0 #ffd34e;
+  text-shadow: 0 0 0 black, -30px 0 #ffd34e;
+}
+.owl-carousel .owl-controls .owl-buttons > div.owl-prev {
+  -webkit-text-shadow: 0 0 0 black, 30px 0 #ffd34e;
+  -moz-text-shadow: 0 0 0 black, 30px 0 #ffd34e;
+  text-shadow: 0 0 0 black, 30px 0 #ffd34e;
+}
+.owl-carousel .owl-controls .owl-buttons > div:hover.owl-next {
+  -webkit-text-shadow: 30px 0 0 black, 0 0 #ffd34e;
+  -moz-text-shadow: 30px 0 0 black, 0 0 #ffd34e;
+  text-shadow: 30px 0 0 black, 0 0 #ffd34e;
+}
+.owl-carousel .owl-controls .owl-buttons > div:hover.owl-prev {
+  -webkit-text-shadow: -30px 0 0 black, 0 0 #ffd34e;
+  -moz-text-shadow: -30px 0 0 black, 0 0 #ffd34e;
+  text-shadow: -30px 0 0 black, 0 0 #ffd34e;
+}
